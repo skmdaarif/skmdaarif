@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Aarif 👋
 
-<!--
-**skmdaarif/skmdaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in embedded systems, IoT, and software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+🔐 **Secure Password Generator CLI**  
+A configurable command-line password generator written in Python using cryptographically secure randomness.
+
+Repo:  
+https://github.com/skmdaarif/secure-password-generator
+
+---
+
+## Skills
+
+**Programming**
+- Python
+- C
+- Kotlin
+- JavaScript
+
+**Web**
+- HTML
+- CSS
+
+**Embedded Systems**
+- Arduino
+- ESP32
+- Sensor integration
+- Motor control
+
+---
+
+## Currently Learning
+
+- Embedded systems programming
+- IoT system design
+- Software development tools
+
+---
+
+## GitHub
+
+You can check out my projects here:  
+https://github.com/skmdaarif
