@@ -1,6 +1,6 @@
 # Hi, I'm Aarif 👋
 
-I'm a Computer Science student interested in embedded systems, IoT, and software development.
+Computer Science student interested in embedded systems, IoT, and software development.
 
 ---
 
@@ -34,6 +34,24 @@ https://github.com/skmdaarif/secure-password-generator
 
 ---
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skmdaarif&show_icons=true&theme=tokyonight)
+
+---
+
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skmdaarif&layout=compact&theme=tokyonight)
+
+---
+
+## GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=skmdaarif&theme=tokyonight)
+
+---
+
 ## Currently Learning
 
 - Embedded systems programming
@@ -42,7 +60,7 @@ https://github.com/skmdaarif/secure-password-generator
 
 ---
 
-## GitHub
+## Connect
 
-You can check out my projects here:  
+GitHub:  
 https://github.com/skmdaarif
